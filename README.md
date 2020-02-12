@@ -33,9 +33,11 @@
 - 网页平台
   - W3CSchool在线Python3平台 [点击进入](https://www.w3cschool.cn/tryrun/runcode?lang=python3)
 - 其它
-  - Educoder在线实训平台，难度较大，包含很多实战练习，需注册登陆 [点击进入](https://www.educoder.net/paths/149)
+  - Educoder在线实训平台，难度较大，包含很多实战练习，需注册登陆，不适合手机使用 [点击进入](https://www.educoder.net/paths/149)
 - 最最重要的平台 <font color=red>墙裂推荐</font>
   - 纸笔，和自己的大脑
+
+>有电脑可以更加方便的学习Python，但不代表没有就不能学习  
 
 
 ---
