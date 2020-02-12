@@ -66,7 +66,7 @@
 
 ## 使用教材
 李暾等人编著．大学计算机基础[M]．第3版．出版地:北京．出版社:清华大学出版社，2016．  
-!(https://gitee.com/nixius/rb/raw/master/教材封面.jpg)
+![封面](https://gitee.com/nixius/rb/raw/master/教材封面.jpg)
 
 ---
 
