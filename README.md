@@ -8,7 +8,7 @@
 - 慕课平台，南京邮电大学开设的《Python语言程序设计基础》 [点击进入](https://www.icourse163.org/course/NJUPT-1003215002) <font color=red size=1>推荐</font> <font size=1 color=gray>该课程当前已结束，请查看前几次开课的视频，需要注册并登陆</font> 
 - PDF电子书《简明Python教程》 [点击下载](https://gitee.com/nixius/rb/raw/master/简明Pythoon教程.pdf)  <font color=red size=1>推荐</font>
 - PDF电子书《大学计算机基础》（李暾）第2版 [点击下载](https://gitee.com/nixius/rb/raw/master/《大学计算机基础》（李暾）第2版.pdf) <font size=1 color=gray>本课程使用教材为该书第3版，有些改动，该教材Python章节内容非常不完整，仅能作为网课参考</font> 
-- PDF电子书《Python语言程序设计基础》（嵩天）第2版 [点击下载]() <font size=1 color=gray>内容非常详实，可查阅参考，该书为扫描图片版，可能不太方便手机阅读</font> 
+- PDF电子书《Python语言程序设计基础》（嵩天）第2版 [点击下载](https://gitee.com/nixius/rb/raw/master/《Python语言程序设计基础》（嵩天）（第2版）.pdf) <font size=1 color=gray>内容非常详实，可查阅参考，该书为扫描图片版，可能不太方便手机阅读</font> 
 - Python在线官方教程 [点击进入](https://docs.python.org/zh-cn/3/tutorial/index.html)
 - 廖雪峰Python在线教程 [点击进入](https://www.liaoxuefeng.com/wiki/1016959663602400)
 - W3CSchool在线Python教程 [点击进入](https://www.w3cschool.cn/python3/)
