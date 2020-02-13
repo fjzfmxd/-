@@ -17,8 +17,9 @@
 1. 使用QQ或微信扫描下面的二维码
 ![](https://gitee.com/nixius/rb/raw/master/QRCode.jpg)
 2. 在应用商店查找`腾讯课堂`并安装，使用刚才扫码使用的微信或QQ登录
-3. 在`腾讯课堂`APP中`我的`界面，即可在最近看过中找到课程
+3. 在`腾讯课堂`APP中`我的`界面，即可在最近看过中找到课程，后续进入课堂可直接在此进入
 ![](https://gitee.com/nixius/rb/raw/master/appmy.jpg)
+>有个人电脑的同学，请优先使用Windows客户端；没有个人电脑的同学请使用APP客户端。
 
 ## 参考资料
 - 慕课平台，南京邮电大学开设的《Python语言程序设计基础》 [点击进入](https://www.icourse163.org/course/NJUPT-1003215002) <font color=red size=1>推荐</font> <font size=1 color=gray>该课程当前已结束，请查看前几次开课的视频，需要注册并登陆</font> 
