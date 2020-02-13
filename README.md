@@ -10,9 +10,8 @@
 ### Windows客户端
 1. 前往腾讯课堂官网下载客户端并安装 [下载链接](https://ke.qq.com/download/pcapp.html)
 2. 使用QQ或微信登录
-3. 点击左上角用户，依次选择`更多`->`上课ID进入课堂`，然后输入`100783824`
-![](https://gitee.com/nixius/rb/raw/master/windowsgetin.png)
-4. 后续进入课堂可直接在`我的课堂`中进入
+3. 点击左上角用户，依次选择`更多`->`上课ID进入课堂`，然后输入`100783824`  [点击查看示例](https://gitee.com/nixius/rb/raw/master/windowsgetin.png)
+1. 后续进入课堂可直接在`我的课堂`中进入
 ### 手机（安卓或苹果）客户端
 1. 使用QQ或微信扫描下面的二维码  
 
