@@ -3,7 +3,7 @@
 ## 当前进度
 - 尚未开始授课，请个人预习
 - <font color=red>**重要：**</font> 请所有学员完成问卷调查，2月13日18:00截至 [点击进入](https://wj.qq.com/s2/5401513/bb9f/)
-- 下次授课：试播及教学准备会，时间待定
+- 下次授课：2月14日（周五）14:30-16:30，测试暨教学准备会
 ## 参考资料
 - 慕课平台，南京邮电大学开设的《Python语言程序设计基础》 [点击进入](https://www.icourse163.org/course/NJUPT-1003215002) <font color=red size=1>推荐</font> <font size=1 color=gray>该课程当前已结束，请查看前几次开课的视频，需要注册并登陆</font> 
 - PDF电子书《简明Python教程》 [点击下载](https://gitee.com/nixius/rb/raw/master/%E7%AE%80%E6%98%8EPython%E6%95%99%E7%A8%8B.pdf)  <font color=red size=1>推荐</font>
