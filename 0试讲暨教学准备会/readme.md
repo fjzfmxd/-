@@ -19,4 +19,4 @@
   - 特点
   - Windows下Python环境的部署
   - 手机平台Python环境的部署
-- 怎么学号Python
+- 怎么学好Python
