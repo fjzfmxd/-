@@ -4,6 +4,22 @@
 - 尚未开始授课，请个人预习
 - <font color=red>**重要：**</font> 请所有学员完成问卷调查，2月13日18:00截至（已结束） [点击进入](https://wj.qq.com/s2/5401513/bb9f/)
 - 下次授课：2月14日（周五）14:30-16:30，测试暨教学准备会
+
+## 上课方式
+本课程使用腾讯课堂进行授课，请根据自己的条件选择客户端进行学习（如果有个人电脑，请使用Windows客户端，体验更好）
+### Windows客户端
+1. 前往腾讯课堂官网下载客户端并安装 [下载链接](https://ke.qq.com/download/pcapp.html)
+2. 使用QQ或微信登录
+3. 点击左上角用户，依次选择`更多`->`上课ID进入课堂`，然后输入`100783824`
+![](https://gitee.com/nixius/rb/raw/master/windowsgetin.png)
+4. 后续进入课堂可直接在`我的课堂`中进入
+### 手机（安卓或苹果）客户端
+1. 使用QQ或微信扫描下面的二维码
+![](https://gitee.com/nixius/rb/raw/master/QRCode.jpg)
+2. 在应用商店查找`腾讯课堂`并安装，使用刚才扫码使用的微信或QQ登录
+3. 在`腾讯课堂`APP中`我的`界面，即可在最近看过中找到课程
+![](https://gitee.com/nixius/rb/raw/master/appmy.jpg)
+
 ## 参考资料
 - 慕课平台，南京邮电大学开设的《Python语言程序设计基础》 [点击进入](https://www.icourse163.org/course/NJUPT-1003215002) <font color=red size=1>推荐</font> <font size=1 color=gray>该课程当前已结束，请查看前几次开课的视频，需要注册并登陆</font> 
 - PDF电子书《简明Python教程》 [点击下载](https://gitee.com/nixius/rb/raw/master/%E7%AE%80%E6%98%8EPython%E6%95%99%E7%A8%8B.pdf)  <font color=red size=1>推荐</font>
