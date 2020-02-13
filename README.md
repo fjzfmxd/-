@@ -13,7 +13,8 @@
 3. 点击左上角用户，依次选择`更多`->`上课ID进入课堂`，然后输入`100783824`  [点击查看示例](https://gitee.com/nixius/rb/raw/master/windowsgetin.png)
 1. 后续进入课堂可直接在`我的课堂`中进入
 ### 手机（安卓或苹果）客户端
-1. 使用QQ或微信扫描下面的二维码 ![](https://gitee.com/nixius/rb/raw/master/QRCode.jpg)  
+1. 使用QQ或微信扫描下面的二维码  
+   ![](https://gitee.com/nixius/rb/raw/master/QRCode.jpg)  
 2. 在应用商店查找`腾讯课堂`并安装，使用刚才扫码使用的微信或QQ登录  
 3. 在`腾讯课堂`APP中`我的`界面，即可在最近看过中找到课程，后续进入课堂可直接在此进入 [点击查看示例](https://gitee.com/nixius/rb/raw/master/appmy.jpg)
 >有个人电脑的同学，请优先使用Windows客户端；没有个人电脑的同学请使用APP客户端。
