@@ -64,12 +64,14 @@ https://gitee.com/nixius/fc
 ## 三、Python的安装与运行
 1. Windows平台
    - 安装
-   选择并下载合适的安装程序（[如何选择？](../~课程介绍/readme.md#编程工具），在安装时请注意选中"Add Python to PATH"
+   选择并下载合适的安装程序（[如何选择？](../~课程介绍/readme.md#编程工具)），在安装时请注意选中"Add Python to PATH"
    - 运行
      - 交互式执行方式  
        在开始菜单中找到IDLE，逐条输入代码，Python解释器逐条执行并输出结果。
+       ![交互式执行](https://gitee.com/nixius/rb/raw/master/interpreter.png)
      - 文件式执行方式  
        在开始菜单中找到IDLE，新建或打开.py文件，编辑好要运行的代码并保存，选择Run->Run Modual，或直接按F5键运行文件中的所有代码
+       ![文件式执行](https://gitee.com/nixius/rb/raw/master/script.png)
 2. 手机平台
    - Python编程狮（安卓、苹果都有，应用商店搜索安装）
      - 优点：中文界面，免费，内附Python教程
