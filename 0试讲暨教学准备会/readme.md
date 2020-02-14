@@ -60,7 +60,7 @@
 5. 多想想为什么
    代码是人的思维在计算机上的体现，自己的思考是代码的基础
 ### （三）在哪里找学习资料
-[](https://gitee.com/nixius/fc)
+https://gitee.com/nixius/fc
 ## 三、Python的安装与运行
 1. Windows平台
    - 安装
