@@ -89,3 +89,23 @@ https://gitee.com/nixius/fc
    - W3CSchool在线Python3平台 [点击进入](https://www.w3cschool.cn/tryrun/runcode?lang=python3)
 4. 最最重要的平台 <font color=red>墙裂推荐</font>
    - 纸笔，和自己的大脑
+
+## 作业
+- 安装Python环境并尝试运行
+  - 尝试运行你的hello world  
+    <details>
+    <summary>展开查看代码</summary>
+    <pre><code>print("hello world")
+    </code></pre>
+    </details>
+  - 尝试一下如何计算圆的面积
+    <details>
+    <summary>展开查看代码</summary>
+    <pre><code>r = 8  
+    pi = 3.14  
+    area = pi*r*r
+    print(area)
+    </code></pre>
+    </details>
+
+- 下载参考资料并预习Python基本元素
