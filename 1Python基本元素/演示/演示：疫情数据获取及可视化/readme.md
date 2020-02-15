@@ -3,3 +3,6 @@
 	- requests
 	- BeautifulSoup4
 	- pyecharts
+
+效果截图  
+![](https://gitee.com/nixius/rb/raw/master/疫情数据.png)
