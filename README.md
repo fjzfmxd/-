@@ -11,7 +11,11 @@
 - 📢 直播视频已上传直百度网盘
   - 链接: https://pan.baidu.com/s/1XKf5nHUY6EPggMeU--QtwA 提取码: p3nc
   - 或微信扫描此二维码  
-  ![](https://gitee.com/nixius/rb/raw/master/baiduqrcode.jpg)
+    <details>
+    <summary>展开显示二维码</summary>
+    
+    ![](https://gitee.com/nixius/rb/raw/master/baiduqrcode.jpg)
+    </details>
 - 📢 教学内容 [点击查看](./0试讲暨教学准备会/readme.md)
 - 📢 PPT[下载](https://gitee.com/nixius/fc/raw/master/0试讲暨教学准备会/幻灯片.pptx)
 - ⚠️ 请完成在线作业 [点击进入](https://wj.qq.com/s2/5437518/7f40/) 提交截至时间为2月16日18:00

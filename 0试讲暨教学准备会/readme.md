@@ -17,7 +17,11 @@
 
 #### 使用教材
 李暾等人编著．大学计算机基础[M]．第3版．出版地:北京．出版社:清华大学出版社，2016．  
+<details>
+<summary>点击显示教材封面</summary>
+
 ![封面](https://gitee.com/nixius/rb/raw/master/教材封面.jpg)
+</details>
 
 
 ### （三）怎么考
@@ -68,10 +72,21 @@ https://gitee.com/nixius/fc
    - 运行
      - 交互式执行方式  
        在开始菜单中找到IDLE，逐条输入代码，Python解释器逐条执行并输出结果。
+       <details>
+       <summary>点击显示界面</summary>
+
        ![交互式执行](https://gitee.com/nixius/rb/raw/master/interpreter.png)
+       </details>
+
      - 文件式执行方式  
        在开始菜单中找到IDLE，新建或打开.py文件，编辑好要运行的代码并保存，选择Run->Run Modual，或直接按F5键运行文件中的所有代码
+       
+       <details>
+       <summary>点击显示界面</summary>
+
        ![文件式执行](https://gitee.com/nixius/rb/raw/master/script.png)
+       </details>
+       
 2. 手机平台
    - Python编程狮（安卓、苹果都有，应用商店搜索安装）
      - 优点：中文界面，免费，内附Python教程
