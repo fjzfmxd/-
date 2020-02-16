@@ -2,6 +2,7 @@
 
 ## 第1次课：Python基本元素
 - 📢 时间：2月17日 10:00~12:00
+- 📢 教学内容 [点击查看](./1Python基本元素/演示/readme.md)
 - 📢 PPT[下载](https://gitee.com/nixius/fc/raw/master/1Python基本元素/幻灯片.pptx)
 - 📢 在线作业[点击进入](https://wj.qq.com/s2/5438927/3460/) 提交截至时间为2月21日(周五)18:00
 
