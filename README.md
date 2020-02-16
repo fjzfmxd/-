@@ -19,7 +19,7 @@
   - PPT[下载](https://gitee.com/nixius/fc/raw/master/0试讲暨教学准备会/幻灯片.pptx)
 
 ## 课前准备
-- ✅ <font color=red>**重要：**</font> 请所有学员完成问卷调查，2月13日18:00截至（已结束）
+- ✅ <font color=red>**重要：**</font> 请所有学员完成问卷调查[点击进入](https://wj.qq.com/s2/5401513/bb9f/)，2月13日18:00截至（已结束）
 - ✅ 自行了解课程内容 [点击查看课程介绍](./~课程介绍/readme.md)
 
 ## 课程介绍
