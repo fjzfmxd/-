@@ -105,7 +105,7 @@ https://gitee.com/nixius/fc
 4. 最最重要的平台 <font color=red>墙裂推荐</font>
    - 纸笔，和自己的大脑
 
-## 作业
+## 练习
 - 安装Python环境并尝试运行
   - 尝试运行你的hello world  
     <details>
@@ -123,4 +123,3 @@ https://gitee.com/nixius/fc
     </code></pre>
     </details>
 
-- 下载参考资料并预习Python基本元素
