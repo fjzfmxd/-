@@ -596,24 +596,12 @@ ValueError: invalid literal for int() with base 10: '123.4'
 
 示例：
 ```
+>>> "{}-{}-{}".format('a',1,4.0)
+'a-1-4.0'
 >>> "{0}-{1}-{2}".format('a',1,4.0)
 'a-1-4.0'
 >>> "{2}-{0}-{1}".format('a',1,4.0)
 '4.0-a-1'
-
->>> "{}-{}-{}".format('a',1,4.0)
-'a-1-4.0'
-
->>>"{}-{0}-{1}".format('a',1,4.0)
-ValueError: cannot switch from automatic field numbering to manual field specification
-
->>> "{x}-{y}-{z}".format(z=4.0,x='a',y=1)
-'a-1-4.0'
-
->>> "{0}-{1}-{y}-{z}".format(3,5,z='a',y=1)
-'3-5-1-a'
->>> "{}-{}-{y}-{z}".format(3,5,z='a',y=1)
-'3-5-1-a'
 ```
 
 #### (3)带有格式的槽
