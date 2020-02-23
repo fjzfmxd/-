@@ -2,6 +2,7 @@
 
 ## 第2次课：Python基本类型
 - 📢 时间：2月24日 10:00~12:00
+- 📢 教学内容 [点击查看](./2Python基本类型/readme.md)
 - 📢 PPT[下载](https://gitee.com/nixius/fc/raw/master/2Python基本类型/幻灯片.pptx)
 - ⚠️ 在线作业[点击进入](https://wj.qq.com/s2/5486827/32f8/) 提交截至时间为2月28日(周五)18:00
 
