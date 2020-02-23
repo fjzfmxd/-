@@ -295,7 +295,7 @@ y = math.cos(math.pi/3)  # math.pi为PI值，math.cos()函数计算余弦值
 
 在Python中，真为True，假为False。请注意首字母需要大写。
 
-```python
+```
 >>> type(True)
 <class 'bool'>
 >>> type(False)
@@ -506,7 +506,7 @@ True
 
 ### 6、字符串的基本操作：其它常用函数
 
-- `len(str)`返回字符串的长度
+- `len(str)`返回字符串的长度  
 示例：
 ```
 >>> len("abcde")
@@ -516,7 +516,7 @@ True
 ```
 
 - `str.lower()`返回新的字符串，内容全部小写化
-- `str.upper()`返回新的字符串，内容全部大写化
+- `str.upper()`返回新的字符串，内容全部大写化  
 示例：
 ```
 >>> "AbC".lower()
@@ -590,7 +590,7 @@ ValueError: invalid literal for int() with base 10: '123.4'
 结果为：`"我们要在2035年，基本实现社会主义现代化"`
 
 #### (2)序号槽
-`序号槽`的格式为`{序号}`，将第i个参数插入序号槽`{i}`中(参数序号从0开始)。  
+`序号槽`的格式为`{序号}`，将第i个参数插入序号槽`{i}`中(参数和槽的序号都从0开始)。  
 <img src="https://gitee.com/nixius/rb/raw/master/format2.png" height="150" align="center"/>  
 结果为：`"张三今年19岁，李四也是19岁"`
 
