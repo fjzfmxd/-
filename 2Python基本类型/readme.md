@@ -83,7 +83,6 @@ Python内部提供了9种基本的数值类型运算操作符。
         <tr>
             <td>x-y</td>
             <td>x减去y</td>
-            <td></td>
         </tr>
         <tr>
             <td>x*y</td>
@@ -93,17 +92,14 @@ Python内部提供了9种基本的数值类型运算操作符。
         <tr>
             <td>x/y</td>
             <td>x除以y</td>
-            <td></td>
         </tr>
         <tr>
             <td>x//y</td>
             <td>x整除y，即不大于x与y之商的最大整数</td>
-            <td></td>
         </tr>
         <tr>
             <td>x%y</td>
             <td>x与y之商的余数，又称为模运算</td>
-            <td></td>
         </tr>
         <tr>
             <td>-x</td>
@@ -113,7 +109,6 @@ Python内部提供了9种基本的数值类型运算操作符。
         <tr>
             <td>+x</td>
             <td>x本身</td>
-            <td></td>
         </tr>
         <tr>
             <td>x**y</td>
