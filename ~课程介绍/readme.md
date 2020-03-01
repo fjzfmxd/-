@@ -119,17 +119,17 @@
             <td>python简介：运算符、表达式和基本类型</td>
         </tr>
         <tr>
-            <td rowspan=2>第3周</td>
+            <td>第3周</td>
             <td>3月2日（周一）</td>
             <td>python简介：内置数据结构</td>
         </tr>
-        <tr style="background-color:beige;">
-            <td>3月6日（周五）</td>
+        <tr>
+            <td rowspan=2>第4周</td>
+            <td>3月9日（周一）</td>
             <td>Python实验一</td>
         </tr>
-        <tr>
-            <td>第4周</td>
-            <td>3月9日（周一）</td>
+        <tr style="background-color:beige;">
+            <td>3月13日（周五）</td>
             <td>python简介：程序控制结构</td>
         </tr>
         <tr>
