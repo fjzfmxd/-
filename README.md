@@ -9,6 +9,8 @@
 - 📢 时间：3月2日 10:00~12:00
 - 📢 PPT[下载](https://gitee.com/nixius/fc/raw/master/3Python组合类型/幻灯片.pptx)
 - ⚠️ 在线作业[点击进入](https://wj.qq.com/s2/5539246/5dfb/) 提交截至时间为3月6日(周五)18:00
+- 📢 直播视频已上传直百度网盘，链接见下方第0次课说明
+- **分享一个比较好的适合萌新的复习资料** [点击下载 Python语法整理](https://gitee.com/nixius/rb/raw/master/Python语法整理.pdf)
 
 ## 第2次课：Python基本类型
 - 📢 时间：2月24日 10:00~12:00
