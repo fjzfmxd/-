@@ -111,7 +111,7 @@
         <tr>
             <td>第1周</td>
             <td>2月17日（周一）</td>
-            <td>python简介：基本元素</td>
+            <td>Python简介：基本元素</td>
         </tr>
         <tr>
             <td>第2周</td>
