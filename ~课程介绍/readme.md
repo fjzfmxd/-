@@ -116,12 +116,12 @@
         <tr>
             <td>第2周</td>
             <td>2月24日（周一）</td>
-            <td>python简介：运算符、表达式和基本类型</td>
+            <td>Python简介：运算符、表达式和基本类型</td>
         </tr>
         <tr>
             <td>第3周</td>
             <td>3月2日（周一）</td>
-            <td>python简介：内置数据结构</td>
+            <td>Python简介：内置数据结构</td>
         </tr>
         <tr>
             <td rowspan=2>第4周</td>
@@ -130,7 +130,7 @@
         </tr>
         <tr style="background-color:beige;">
             <td>3月13日（周五）</td>
-            <td>python简介：程序控制结构</td>
+            <td>Python简介：程序控制结构</td>
         </tr>
         <tr>
             <td>第5周</td>
@@ -140,12 +140,12 @@
         <tr>
             <td>第6周</td>
             <td>3月23日（周一）</td>
-            <td>python简介：函数</td>
+            <td>Python简介：函数</td>
         </tr>
         <tr>
             <td>第7周</td>
             <td>3月30日（周一）</td>
-            <td>python简介：库和模块</td>
+            <td>Python简介：库和模块</td>
         </tr>
         <tr>
             <td rowspan="2">第8周</td>
